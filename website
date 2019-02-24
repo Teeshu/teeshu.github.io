@@ -2,3 +2,4 @@ git init
 git add README.md
 git add index.html
 git commit -m "first commit"
+git remote add origin https://teeshu.github.io/website.git
