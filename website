@@ -1,0 +1,4 @@
+git init
+git add README.md
+git add index.html
+git commit -m "first commit"
