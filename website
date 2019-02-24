@@ -1,5 +1,7 @@
+echo "# test" >> README.md
 git init
 git add README.md
 git add index.html
 git commit -m "first commit"
-git remote add origin https://teeshu.github.io/website.git
+git remote add origin https://github.com/Teeshu/test.git
+git push -u origin master
