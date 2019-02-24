@@ -1,0 +1,5 @@
+$ touch CNAME
+terrenceshu.com
+$ git add -A
+$ git commit -m 'add CNAME file'
+$ git push origin master
